@@ -1,0 +1,21 @@
+TITULAÇÃO:
+Pos-Doutorado - (128, 112, 255)
+Doutorado - (255, 86, 32)
+Mestrado - (255, 254, 143)
+
+AREA:
+Engenharia de Materiais e Metalurgia - (128, 112, 255)
+Engenharia Elétrica - (255, 86, 32)
+Engenharia Mecânica - (10, 255, 64)
+Engenharia de Produção - (255, 254, 143)
+Engenharia Química - (255, 158, 204)
+Engenharia Nuclear - (183, 31, 255)
+Engenharia Aeroespacial  - (255, 193, 56)
+Engenharia de Minas - (0, 158, 158)
+Engenharia Civil - (199, 255, 199)
+Engenharia Biomédica - (82, 245, 255)
+Engenharia Sanitária - (199, 121, 15)
+Engenharia de Energia - (0, 133, 30)
+Engenharia Naval e Oceânica - (65, 58, 133)
+Engenharia de Transportes - (255, 0, 231)
+Nulo - (158, 158, 158)
